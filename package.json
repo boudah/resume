@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonresume-theme-two-column-modernist": "^1.1.4",
+    "resume-cli": "^3.7.3"
+  }
+}
