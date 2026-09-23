@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Florian Bojda",
+    "label": "Technical Lead @ 360Learning (former eLamp CTO)",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lille",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "florianbojda",
+      "url": "https://www.linkedin.com/in/florian-b-a20b366a/"
+    }]
+  },
+  "work": [
+    {
+        "name": "360Learning",
+        "position": "Technical Lead",
+        "url": "https://360learning.com/product/skills/",
+        "startDate": "2023-10-01",
+        "endDate": "",
+        "summary": "Tech Lead driving the engineering strategy and core system integration for the Skills product domain following the acquisition of eLamp.",
+        "highlights": [
+            "👥 Built, mentored, and led a high-performing squad of 5 experienced senior developers on the Skills domain, establishing engineering best practices and technical roadmap ownership.",
+            "🏛️ Architected the complex, deep integration between the legacy eLamp Skills engine and the core 360Learning platform, resolving intricate multi-tenant, data-consistency, and state-synchronization challenges.",
+            "🕸️ Overcame major technical hurdles in aligning disparate data models, merging real-time skills taxonomy engines with 360Learning’s architecture.",
+            "🔄 Designed integration pipelines to synchronize enterprise client skills data across both platforms with zero downtime.",
+            "🤝 Fostered technical collaboration between the Skills team and core platform squads to streamline cross-system dependencies and maintain platform stability."
+        ],
+        "location": "Paris (Remote)"
+    },
+    {
+      "name": "eLamp",
+      "position": "Co-founder, CTO, Head of AI",
+      "url": "https://elamp.fr",
+      "startDate": "2014-10-01",
+      "endDate": "2023-10-01",
+      "summary": "Led a small engineering team (5+ engineers), drove AI R&D and infrastructure teams to build scalable AI-driven skills platforms.",
+      "highlights": [
+        "👥 Co-founded the platform, grew the R&D and engineering teams from inception, and established the technology vision leading to successful acquisition.",
+        "🤖 Designed and implemented proprietary fine-tuned ML transformer models and Knowledge Graph architectures for automated skills mapping and RAG-based intelligence.",
+        "☸️ Engineered cloud-native DevOps infrastructure on Kubernetes, establishing robust CI/CD pipelines, automated deployments, and real-time operational monitoring.",
+        "🧠 Bridged AI research with product engineering, translating complex semantic data models into scalable enterprise features.",
+        "🔒 Built enterprise-grade security and scalable infrastructure serving tier-1 industrial clients (e.g., Bouygues Construction, Naval Group, Artelia)."
+      ],
+      "location": "Lille, France (Hybrid)"
+    },
+    {
+      "name": "Atos Worldline",
+      "position": "Consulting Engineer",
+      "url": "",
+      "startDate": "2013-03-01",
+      "endDate": "2014-10-01",
+      "summary": "Consulting engineer focused on FinTech solutions and high-scale web applications.",
+      "highlights": [
+        "💹 Developed FinTech oriented POC (stock market portfolio optimization, stock market screening).",
+        "🌐 Development on a high scale web stock market application using J2EE."
+      ],
+      "location": "Lille, France"
+    },
+    {
+      "name": "Internship-uk",
+      "position": "Web Developer intern",
+      "url": "",
+      "startDate": "2011-05-01",
+      "endDate": "2011-09-01",
+      "summary": "",
+      "highlights": [
+        "🗂️ Internal Web application development for managing employee timesheets."
+      ],
+      "location": "New Romney, England"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "IMT Nord Europe",
+      "area": "Information and Communication Systems Engineering",
+      "studyType": "Master's Degree in Engineering (Mines Graduate School)",
+      "startDate": "2009-01-01",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Robespierre, Arras",
+      "area": "Advanced Mathematics, Physics, Engineering Sciences",
+      "studyType": "Intensive Foundation Degree (CPGE / MPSI-MP)",
+      "startDate": "2008-01-01",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "⚡ Software Architecture & Systems (12+ years)",
+      "level": "12+ years experience",
+      "keywords": [
+        "System Interoperability 🏆",
+        "Event-Driven Architecture 🏆",
+        "Microservices 🏆",
+        "Node.js / TypeScript 🏆",
+        "Python 🏆",
+        "Temporal workflows 🏆",
+        "NoSQL (Mongo / Redis / Cassandra) ✨",
+        "Graph Databases (ArangoDB / TinkerPop) ✨",
+        "SQL (PostgreSQL)"
+      ]
+    },
+    {
+      "name": "👥 Engineering Leadership & Team Management (10+ years)",
+      "level": "10+ years experience",
+      "keywords": [
+        "Team Leadership (5 Senior Engineers) 🏆",
+        "Team performance management 🏆",
+        "Technical Mentorship 🏆",
+        "Cross-Squad Collaboration ✨",
+        "Agile / Scrum Strategy"
+      ]
+    },
+    {
+      "name": "☁️ DevOps & Cloud Infrastructure (8+ years)",
+      "level": "8+ years experience",
+      "keywords": [
+        "Kubernetes & Container Orchestration 🏆",
+        "CI/CD Pipelines & Automation (GitLab / GitHub CI/CD) 🏆",
+        "Infrastructure as Code (Helm / Kustomize / Terraform) 🏆",
+        "Cloud Infrastructure Architecture (GCP / AWS / Azure) ✨",
+        "Monitoring, Observability & Alerting (Datadog / Prometheus) ✨"
+      ]
+    },
+    {
+      "name": "🤖 Artificial Intelligence & ML (8+ years)",
+      "level": "8+ years experience",
+      "keywords": [
+        "Knowledge Graphs 🏆",
+        "RAG Architectures 🏆",
+        "AI Ontologies 🏆",
+        "Semantic Layer / Search 🏆",
+        "AI pipelines 🏆",
+        "ML Transformer Models ✨",
+        "PyTorch ✨"
+      ]
+    }],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+        "name": "Sports",
+        "keywords": [
+            "Running",
+            "Swimming"
+        ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
