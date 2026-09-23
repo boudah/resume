@@ -2,11 +2,11 @@
   "basics": {
     "name": "Florian Bojda",
     "label": "Technical Lead @ 360Learning (former eLamp CTO)",
-    "image": "",
+    "image": "https://s.gravatar.com/avatar/cff733cf90823edd218a834980379c61?s=100&r=pg&d=mm",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "",
+    "summary": "Engineering Leader and AI Specialist with 10+ years of experience supporting teams and software systems through growth, from co-founding eLamp to joining 360Learning as Tech Lead following its acquisition.\nFocused on supporting senior engineering squads, helping navigate complex cross-platform integrations, and contributing to enterprise AI initiatives around Knowledge Graphs, RAG architectures, and cloud infrastructure.\nFather of two sons, passionate about running and technology.",
     "location": {
       "address": "",
       "postalCode": "",
