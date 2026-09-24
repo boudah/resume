@@ -164,6 +164,39 @@
         "Prompt Engineering 🟢🟢🟢",
         "Claude code skills 🟢🟢⚪"
       ]
+    },
+    {
+      "name": "🛠️ Tools and frameworks",
+      "keywords": [
+        "Node.js",
+        "TypeScript",
+        "Jest",
+        "Python",
+        "Apollo GraphQL",
+        "Temporal",
+        "React",
+        "Vue",
+        "ArangoDB",
+        "Redis",
+        "Elasticsearch",
+        "Cassandra",
+        "PostgreSQL",
+        "RabbitMQ",
+        "MongoDB",
+        "PyTorch",
+        "Pydantic",
+        "Django",
+        "FastAPI",
+        "Tornado",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Helm",
+        "DataDog (Logs, APM, Metrics)",
+        "Prometheus",
+        "OpenTelemetry",
+        "k6"
+      ]
     }
   ],
   "languages": [
