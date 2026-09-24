@@ -2,11 +2,11 @@
   "basics": {
     "name": "Florian Bojda",
     "label": "Technical Lead @ 360Learning (former eLamp CTO)",
-    "image": "https://s.gravatar.com/avatar/cff733cf90823edd218a834980379c61?s=100&r=pg&d=mm",
+    "image": "",
     "email": "",
     "phone": "",
     "url": "",
-    "summary": "Engineering Leader and AI Specialist with 10+ years of experience supporting teams and software systems through growth, from co-founding eLamp to joining 360Learning as Tech Lead following its acquisition.\nFocused on supporting senior engineering squads, helping navigate complex cross-platform integrations, and contributing to enterprise AI initiatives around Knowledge Graphs, RAG architectures, and cloud infrastructure.\nFather of two sons, passionate about running and technology.",
+    "summary": "Dad to two boys, runner, and hands-on tech leader.\nI’ve spent the last decade building software and supporting engineering teams, first as co-founder at eLamp, and now as Tech Lead at 360Learning post-acquisition.\nI focus on supporting developers, solving tricky platform challenges, and building practical enterprise AI solutions.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,25 +30,25 @@
         "summary": "Following eLamp's acquisition, I took ownership of the Skills product engineering domain as a squad Tech Lead.\nResponsible for leading team growth, driving cross-squad technical strategy, and unifying two distinct software architectures into a single cohesive SaaS platform.\n\n",
         "highlights": [
             "👥 Built, mentored, and led a high-performing squad of 5 experienced senior developers on the Skills domain, establishing engineering best practices and technical roadmap ownership.",
-            "🏛️ Architected the complex, deep integration between the legacy eLamp Skills engine and the core 360Learning platform, resolving intricate multi-tenant, data-consistency, and state-synchronization challenges.",
+            "🏛️ Architected the deep integration between the eLamp Skills engine and the core 360Learning platform, resolving intricate multi-tenant, data-consistency, and state-synchronization challenges.",
             "🕸️ Overcame major technical hurdles in aligning disparate data models, merging real-time skills taxonomy engines with 360Learning’s architecture.",
-            "🔄 Designed integration pipelines to synchronize enterprise client skills data across both platforms with zero downtime.",
-            "🤝 Fostered technical collaboration between the Skills team and core platform squads to streamline cross-system dependencies and maintain platform stability."
+            "🔄 Designed integration pipelines to synchronize enterprise client skills data across both platforms.",
+            "🤝 Fostered technical collaboration between the Skills team and core platform squads to streamline cross-system dependencies."
         ],
         "location": "Paris (Remote)"
     },
     {
-      "name": "eLamp",
-      "position": "Co-founder, CTO, Head of AI",
+      "name": "eLamp (https://elamp.fr)",
+      "position": "Co-founder, CTO",
       "url": "https://elamp.fr",
       "startDate": "2014-10-01",
       "endDate": "2023-10-01",
-      "summary": "Co-founded and scaled an enterprise AI SaaS platform providing Strategic Workforce Planning to tier-1 industrial clients (Naval Group, Bouygues). Built the R&D and engineering teams from inception through acquisition, delivering Knowledge Graph and RAG architectures that automated skill mapping.\n\nThe platform enabled clients to quickly identify internal talent, manage critical compliance certifications, and map long-term workforce capabilities for upcoming projects.\nUsing AI, Knowledge Graphs, and semantic search, eLamp automated the mapping of employee skills to complex project requirements, drastically reducing time-to-staffing and preventing costly operational skill shortages\n\n",
+      "summary": "Co-founded and scaled an enterprise AI SaaS platform providing Strategic Workforce Planning to tier-1 industrial clients (Naval Group, Bouygues). Built the R&D and engineering teams.\n\nThe platform enabled clients to quickly identify internal talent, manage critical compliance certifications, and map long-term workforce capabilities for upcoming projects.\nUsing AI, Knowledge Graphs, and semantic search, eLamp automated the mapping of employee skills to complex project requirements, reducing time-to-staffing and preventing costly operational skill shortages\n\n",
       "highlights": [
-        "👥 Co-founded the platform, grew the R&D and engineering teams from inception, and established the technology vision leading to successful acquisition.",
-        "🤖 Designed and implemented proprietary fine-tuned ML transformer models and Knowledge Graph architectures for automated skills mapping and RAG-based intelligence.",
-        "☸️ Engineered cloud-native DevOps infrastructure on Kubernetes, establishing robust CI/CD pipelines, automated deployments, and real-time operational monitoring.",
-        "🧠 Bridged AI research with product engineering, translating complex semantic data models into scalable enterprise features.",
+        "👥 Co-founded the platform, grew the R&D and engineering teams, and established the technology vision leading to successful acquisition.",
+        "🤖 Designed and implemented proprietary fine-tuned ML transformer models and Knowledge Graph architectures for automated skills mapping and RAG-based intelligence. Trained and fine-tuned transformer models to perform vector-based semantic search and knowledge retrieval on domain-specific data. Trained a few-shot model to classify skills and enrich enterprise skills mapping",
+        "🧠 Transformed experimental AI models into reliable web features in production.",
+        "☸️ Engineered cloud-native infrastructure on Kubernetes, establishing automated deployments through CI/CD pipelines, and real-time operational monitoring through OpenTelemetry",
         "🔒 Built enterprise-grade security and scalable infrastructure serving tier-1 industrial clients (e.g., Bouygues Construction, Naval Group, Artelia)."
       ],
       "location": "Lille, France (Hybrid)"
@@ -108,52 +108,64 @@
       "name": "⚡ Software Architecture & Systems (12+ years)",
       "level": "12+ years experience",
       "keywords": [
-        "System Interoperability 🏆",
-        "Event-Driven Architecture 🏆",
-        "Microservices 🏆",
-        "Node.js / TypeScript 🏆",
-        "Python 🏆",
-        "Temporal workflows 🏆",
-        "NoSQL (Mongo / Redis / Cassandra) ✨",
-        "Graph Databases (ArangoDB / TinkerPop) ✨",
-        "SQL (PostgreSQL)"
+        "Event-Driven Architecture 🟢🟢🟢",
+        "Microservices 🟢🟢🟢",
+        "Clean Architecture 🟢🟢🟢",
+        "Node.js / TypeScript 🟢🟢🟢",
+        "Python 🟢🟢🟢",
+        "GraphQL 🟢🟢🟢",
+        "Temporal workflows 🟢🟢🟢",
+        "NoSQL (Mongo / Redis / Cassandra) 🟢🟢⚪",
+        "Graph Databases (ArangoDB / TinkerPop) 🟢🟢⚪",
+        "SQL (PostgreSQL) 🟢🟢⚪",
+        "Frontend frameworks (React / Vue) 🟢🟢⚪",
+        "Go 🟢⚪⚪"
       ]
     },
     {
       "name": "👥 Engineering Leadership & Team Management (10+ years)",
       "level": "10+ years experience",
       "keywords": [
-        "Team Leadership (5 Senior Engineers) 🏆",
-        "Team performance management 🏆",
-        "Technical Mentorship 🏆",
-        "Cross-Squad Collaboration ✨",
+        "Team Leadership (5 Senior Engineers) 🟢🟢🟢",
+        "Team performance management 🟢🟢🟢",
+        "Technical Mentorship 🟢🟢🟢",
+        "Cross-Squad Collaboration",
         "Agile / Scrum Strategy"
-      ]
-    },
-    {
-      "name": "☁️ DevOps & Cloud Infrastructure (8+ years)",
-      "level": "8+ years experience",
-      "keywords": [
-        "Kubernetes & Container Orchestration 🏆",
-        "CI/CD Pipelines & Automation (GitLab / GitHub CI/CD) 🏆",
-        "Infrastructure as Code (Helm / Kustomize / Terraform) 🏆",
-        "Cloud Infrastructure Architecture (GCP / AWS / Azure) ✨",
-        "Monitoring, Observability & Alerting (Datadog / Prometheus) ✨"
       ]
     },
     {
       "name": "🤖 Artificial Intelligence & ML (8+ years)",
       "level": "8+ years experience",
       "keywords": [
-        "Knowledge Graphs 🏆",
-        "RAG Architectures 🏆",
-        "AI Ontologies 🏆",
-        "Semantic Layer / Search 🏆",
-        "AI pipelines 🏆",
-        "ML Transformer Models ✨",
-        "PyTorch ✨"
+        "Knowledge Graphs 🟢🟢🟢",
+        "Semantic Ontologies 🟢🟢🟢",
+        "Semantic Layer / Search 🟢🟢🟢",
+        "RAG Architectures 🟢🟢⚪",
+        "AI pipelines 🟢🟢⚪",
+        "ML Transformer Models 🟢🟢⚪",
+        "PyTorch 🟢🟢⚪"
       ]
-    }],
+    },
+    {
+      "name": "☁️ DevOps & Cloud Infrastructure (8+ years)",
+      "level": "8+ years experience",
+      "keywords": [
+        "Kubernetes & Container Orchestration 🟢🟢🟢",
+        "CI/CD Pipelines & Automation (GitLab / GitHub) 🟢🟢🟢",
+        "Infrastructure as Code (Helm / Kustomize / Terraform) 🟢🟢⚪",
+        "Cloud Infrastructure Architecture (GCP / AWS / Azure) 🟢🟢⚪",
+        "Monitoring, Observability & Alerting (Datadog / Prometheus) 🟢🟢⚪"
+      ]
+    },
+    {
+      "name": "🤖 LLM & Prompt Engineering (3+ years)",
+      "level": "3+ years experience",
+      "keywords": [
+        "Prompt Engineering 🟢🟢🟢",
+        "Claude code skills 🟢🟢⚪"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "English",
