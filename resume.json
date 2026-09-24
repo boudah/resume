@@ -2,10 +2,10 @@
   "basics": {
     "name": "Florian Bojda",
     "label": "Technical Lead @ 360Learning (former eLamp CTO)",
-    "image": "",
+    "image": "./profile.jpg",
     "email": "",
     "phone": "",
-    "url": "",
+    "url": "https://www.linkedin.com/in/florian-b-a20b366a/",
     "summary": "Dad of two boys, runner, and hands-on tech leader.\nI’ve spent the last decade building software and supporting engineering teams, first as co-founder at eLamp, and now as Tech Lead at 360Learning post-acquisition.\nI focus on supporting developers, solving tricky platform challenges, and building practical enterprise AI solutions.",
     "location": {
       "address": "",
@@ -38,7 +38,7 @@
         "location": "Paris (Remote)"
     },
     {
-      "name": "eLamp (https://elamp.fr)",
+      "name": "eLamp",
       "position": "Co-founder, CTO",
       "url": "https://elamp.fr",
       "startDate": "2014-10-01",
@@ -48,6 +48,7 @@
         "👥 Co-founded the platform, grew the R&D and engineering teams, and established the technology vision leading to successful acquisition.",
         "🤖 Designed and implemented proprietary fine-tuned ML transformer models and Knowledge Graph architectures for automated skills mapping and RAG-based intelligence. Trained and fine-tuned transformer models to perform vector-based semantic search and knowledge retrieval on domain-specific data. Trained a few-shot model to classify skills and enrich enterprise skills mapping",
         "🧠 Transformed experimental AI models into reliable web features in production.",
+        "🛠️ Architected the platform as microservices to support core functionalities, ensuring scalability, maintainability, and high availability. Defined services boundaries, interactions between domains, and infrastructure components supporting sync/async communication patterns.",
         "☸️ Engineered cloud-native infrastructure on Kubernetes, establishing automated deployments through CI/CD pipelines, and real-time operational monitoring through OpenTelemetry",
         "🔒 Built enterprise-grade security and scalable infrastructure serving tier-1 industrial clients (e.g., Bouygues Construction, Naval Group, Artelia)."
       ],
@@ -108,27 +109,27 @@
       "name": "⚡ Software Architecture & Systems (12+ years)",
       "level": "12+ years experience",
       "keywords": [
-        "Event-Driven Architecture 🟢🟢🟢",
-        "Microservices 🟢🟢🟢",
-        "Clean Architecture 🟢🟢🟢",
-        "Node.js / TypeScript 🟢🟢🟢",
-        "Python 🟢🟢🟢",
-        "GraphQL 🟢🟢🟢",
-        "Temporal workflows 🟢🟢🟢",
-        "NoSQL (Mongo / Redis / Cassandra) 🟢🟢⚪",
-        "Graph Databases (ArangoDB / TinkerPop) 🟢🟢⚪",
-        "SQL (PostgreSQL) 🟢🟢⚪",
-        "Frontend frameworks (React / Vue) 🟢🟢⚪",
-        "Go 🟢⚪⚪"
+        "Event-Driven Architecture",
+        "Microservices",
+        "Clean Architecture",
+        "Node.js / TypeScript",
+        "Python",
+        "GraphQL",
+        "Temporal workflows",
+        "NoSQL (Mongo / Redis / Cassandra)",
+        "Graph Databases (ArangoDB / TinkerPop)",
+        "SQL (PostgreSQL)",
+        "Frontend frameworks (React / Vue)",
+        "Go"
       ]
     },
     {
       "name": "👥 Engineering Leadership & Team Management (10+ years)",
       "level": "10+ years experience",
       "keywords": [
-        "Team Leadership (5 Senior Engineers) 🟢🟢🟢",
-        "Team performance management 🟢🟢🟢",
-        "Technical Mentorship 🟢🟢🟢",
+        "Team Leadership",
+        "Team performance management",
+        "Technical Mentorship",
         "Cross-Squad Collaboration",
         "Agile / Scrum Strategy"
       ]
@@ -137,32 +138,32 @@
       "name": "🤖 Artificial Intelligence & ML (8+ years)",
       "level": "8+ years experience",
       "keywords": [
-        "Knowledge Graphs 🟢🟢🟢",
-        "Semantic Ontologies 🟢🟢🟢",
-        "Semantic Layer / Search 🟢🟢🟢",
-        "RAG Architectures 🟢🟢⚪",
-        "AI pipelines 🟢🟢⚪",
-        "ML Transformer Models 🟢🟢⚪",
-        "PyTorch 🟢🟢⚪"
+        "Knowledge Graphs",
+        "Semantic Ontologies",
+        "Semantic Layer / Search",
+        "RAG Architectures",
+        "AI pipelines",
+        "ML Transformer Models",
+        "PyTorch"
       ]
     },
     {
       "name": "☁️ DevOps & Cloud Infrastructure (8+ years)",
       "level": "8+ years experience",
       "keywords": [
-        "Kubernetes & Container Orchestration 🟢🟢🟢",
-        "CI/CD Pipelines & Automation (GitLab / GitHub) 🟢🟢🟢",
-        "Infrastructure as Code (Helm / Kustomize / Terraform) 🟢🟢⚪",
-        "Cloud Infrastructure Architecture (GCP / AWS / Azure) 🟢🟢⚪",
-        "Monitoring, Observability & Alerting (Datadog / Prometheus) 🟢🟢⚪"
+        "Kubernetes & Container Orchestration",
+        "CI/CD Pipelines & Automation (GitLab / GitHub)",
+        "Infrastructure as Code (Helm / Kustomize / Terraform)",
+        "Cloud Infrastructure Architecture (GCP / AWS / Azure)",
+        "Monitoring, Observability & Alerting (Datadog / Prometheus)"
       ]
     },
     {
       "name": "🤖 LLM & Prompt Engineering (3+ years)",
       "level": "3+ years experience",
       "keywords": [
-        "Prompt Engineering 🟢🟢🟢",
-        "Claude code skills 🟢🟢⚪"
+        "Prompt Engineering",
+        "Claude code skills"
       ]
     },
     {
