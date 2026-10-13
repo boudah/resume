@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "url": "https://www.linkedin.com/in/florian-b-a20b366a/",
-    "summary": "Dad of two boys, runner, and hands-on tech leader.\nI’ve spent the last decade building software and supporting engineering teams, first as co-founder at eLamp, and now as Tech Lead at 360Learning post-acquisition.\nI focus on supporting developers, solving tricky platform challenges, and building practical enterprise AI solutions.",
+    "summary": "Dad of two boys, runner, hands-on tech lead & former AI Startup CTO. Specialized in architecting production-grade AI systems, Knowledge Graphs, and RAG architectures that bridge modern LLMs with resilient enterprise software.\nI’ve spent the last decade building software and supporting engineering teams, first as co-founder at eLamp, and now as Tech Lead at 360Learning post-acquisition.\nI focus on supporting developers, solving tricky platform challenges, and building practical enterprise AI solutions.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -46,7 +46,7 @@
       "summary": "Co-founded and scaled an enterprise AI SaaS platform providing Strategic Workforce Planning to tier-1 industrial clients (Naval Group, Bouygues). Built the R&D and engineering teams.\n\nThe platform enabled clients to quickly identify internal talent, manage critical compliance certifications, and map long-term workforce capabilities for upcoming projects.\nUsing AI, Knowledge Graphs, and semantic search, eLamp automated the mapping of employee skills to complex project requirements, reducing time-to-staffing and preventing costly operational skill shortages\n\n",
       "highlights": [
         "👥 Co-founded the platform, grew the R&D and engineering teams, and established the technology vision leading to successful acquisition.",
-        "🤖 Designed and implemented proprietary fine-tuned ML transformer models and Knowledge Graph architectures for automated skills mapping and RAG-based intelligence. Trained and fine-tuned transformer models to perform vector-based semantic search and knowledge retrieval on domain-specific data. Trained a few-shot model to classify skills and enrich enterprise skills mapping",
+        "🤖 Designed and fine-tuned transformer and few-shot classification models, optimizing inference latency and semantic matching accuracy for enterprise-scale skills taxonomy engines.",
         "🧠 Transformed experimental AI models into reliable web features in production.",
         "🛠️ Architected the platform as microservices to support core functionalities, ensuring scalability, maintainability, and high availability. Defined services boundaries, interactions between domains, and infrastructure components supporting sync/async communication patterns.",
         "☸️ Engineered cloud-native infrastructure on Kubernetes, establishing automated deployments through CI/CD pipelines, and real-time operational monitoring through OpenTelemetry",
@@ -106,6 +106,20 @@
   "publications": [],
   "skills": [
     {
+      "name": "🤖 Applied AI & LLM systems (8+ years)",
+      "level": "8+ years experience",
+      "keywords": [
+        "Knowledge Graphs",
+        "Semantic Ontologies",
+        "Semantic Layer / Search",
+        "RAG Architectures",
+        "AI pipelines",
+        "Fine-tuning & Transformer Models",
+        "PyTorch",
+        "Pydantic"
+      ]
+    },
+    {
       "name": "⚡ Software Architecture & Systems (12+ years)",
       "level": "12+ years experience",
       "keywords": [
@@ -132,19 +146,6 @@
         "Technical Mentorship",
         "Cross-Squad Collaboration",
         "Agile / Scrum Strategy"
-      ]
-    },
-    {
-      "name": "🤖 Artificial Intelligence & ML (8+ years)",
-      "level": "8+ years experience",
-      "keywords": [
-        "Knowledge Graphs",
-        "Semantic Ontologies",
-        "Semantic Layer / Search",
-        "RAG Architectures",
-        "AI pipelines",
-        "ML Transformer Models",
-        "PyTorch"
       ]
     },
     {
