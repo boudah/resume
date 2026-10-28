@@ -31,7 +31,7 @@
         "highlights": [
             "👥 Built, mentored, and led a high-performing squad of 5 experienced senior developers on the Skills domain, establishing engineering best practices and technical roadmap ownership.",
             "🏛️ Architected the deep integration between the eLamp Skills engine and the core 360Learning platform, resolving intricate multi-tenant, data-consistency, and state-synchronization challenges.",
-            "🕸️ Overcame major technical hurdles in aligning disparate data models, merging real-time skills taxonomy engines with 360Learning’s architecture.",
+            "🤖 Designed LLM and agentic pipelines to provide enhanced skills insights integrated in the 360learning experience. Built AI workflows observability and evaluations.",
             "🔄 Designed integration pipelines to synchronize enterprise client skills data across both platforms.",
             "🤝 Fostered technical collaboration between the Skills team and core platform squads to streamline cross-system dependencies."
         ],
@@ -114,6 +114,8 @@
         "Semantic Layer / Search",
         "RAG Architectures",
         "AI pipelines",
+        "Agentic Workflows",
+        "LLM Orchestration",
         "Fine-tuning & Transformer Models",
         "PyTorch",
         "Pydantic"
